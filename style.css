@@ -89,8 +89,8 @@ body {
 
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 255, 170);
     position: fixed;
     bottom: 0;
     width: 100%;

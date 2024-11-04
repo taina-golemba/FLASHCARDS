@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Dica',
-    'Se você está se sentindo sozinho, abandonado, achando que ninguém liga para você...',
+    'Se você está se sentindo sozinho, abandonado, achando que ninguém liga para você...'
     'Atrase um pagamento'
 )
 

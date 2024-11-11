@@ -1,6 +1,7 @@
 criaCartao(
     'Saúde',
-    'O que é pneumoultramicroscopicossilicovulcanoconiótico?',
+    'O que é pneumoultramicroscopicos-
+    silicovulcanoconiótico?',
     'Descreve o indivíduo que possui doença pulmonar causada pela inspiração de cinzas vulcânicas',
 )
 
